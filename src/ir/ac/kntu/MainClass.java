@@ -51,7 +51,7 @@ public class MainClass extends Application {
     private BallClone ballClone;
     private static SecureRandom thisShit = new SecureRandom();
 
-    /**
+    /**w
      * launching the program
      *
      * @param args

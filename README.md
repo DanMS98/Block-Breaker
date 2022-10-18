@@ -12,6 +12,7 @@ Important note: After Java 1.8.0 JavaFX was seperated from the original package.
 - **WB bricks** might break on first, second or third hit.
 - **SB bricks** pause the ball for a brief moment.
 - **CB bricks** drop a chocolate bar (extra point).
+- **LAB bricks** add an extra life.
 - **\* bricks** make the ball go nuts!
 
 ![](https://github.com/DanMS98/Block-Breaker/blob/main/Breakit%20Demo.gif)
